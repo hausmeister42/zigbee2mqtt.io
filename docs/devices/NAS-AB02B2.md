@@ -28,7 +28,8 @@ pageClass: device-page
 <!-- Notes END: Do not edit below this line -->
 
 
-
+## Pairing
+To pair it, hold the button under the battery cap for around 7 seconds until the LED on the front starts blinking fast.
 
 ## Exposes
 
